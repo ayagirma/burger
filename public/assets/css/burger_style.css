@@ -1,0 +1,38 @@
+
+h1{
+	color: red;
+	font-size: 20px;
+	font-weight: 25px
+	text allign: center;
+}
+
+p{
+	color: blue;
+	text-align: center;
+	font-size: 12px;
+}
+#top-bar{
+	height: 25px;
+}
+img {
+	width: 500px;
+	height: 350px;
+	vertical-align: middle ;
+}
+div{
+	background-color: yellow;
+}
+
+.jumbotron {
+        background-color: #155A1E;
+    }
+ @media (min-width: 1200px) {
+  .container {
+    width: 990px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 990px;
+  }
+}
